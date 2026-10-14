@@ -1,3 +1,3 @@
 # ecommerce-sql-project
-Author-Anjali</br>
+Author-Anjali Kumari</br>
 Dept-MCA
